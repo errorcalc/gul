@@ -1,5 +1,5 @@
 # gul
-**Graphics UtiL** for convering monochrome **PNG** image to **BIN** file.
+**Graphics UtiL** for converting monochrome **PNG** image to **BIN** file.
 You can use this for ZX-Spectrum and other 8-bit computers, Arduino and etc, use together with https://github.com/errorcalc/AnotherGraphicsLibrary ...
 
 ### Params:
